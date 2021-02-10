@@ -1,0 +1,10 @@
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\bin\Debug\APP2 -Labels_Buttons.exe.config
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\bin\Debug\APP2 -Labels_Buttons.exe
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\bin\Debug\APP2 -Labels_Buttons.pdb
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\obj\Debug\APP2 -Labels_Buttons.csprojAssemblyReference.cache
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\obj\Debug\APP2__Labels_Buttons.Form1.resources
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\obj\Debug\APP2__Labels_Buttons.Properties.Resources.resources
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\obj\Debug\APP2 -Labels_Buttons.csproj.GenerateResource.cache
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\obj\Debug\APP2 -Labels_Buttons.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\obj\Debug\APP2 -Labels_Buttons.exe
+C:\Projetos\CSharp\C  IDE\Curso de Forms\Forms02\APP2 -Labels_Buttons\APP2 -Labels_Buttons\obj\Debug\APP2 -Labels_Buttons.pdb
